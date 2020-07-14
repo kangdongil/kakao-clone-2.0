@@ -11,3 +11,9 @@
     opacity: 0.6;
     margin-bottom: 12px;
 }
+
+.friends__column img {
+    background: url(https://nomadcoders.co/m.svg);
+    background-size: cover;
+    background-position: center;
+}
